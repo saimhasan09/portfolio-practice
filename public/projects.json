@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Car Hut",
+        "price": 500,
+        "description": "A car selling website",
+        "img": "https://i.ibb.co/mRrkmhz/car-hut-mockup.jpg",
+        "liveSite": "https://car-hut1.web.app/",
+        "github": "https://github.com/saimhasan09/car-hut"
+    },
+    {
+        "id": 2,
+        "name": "Tour one",
+        "price": 800,
+        "description": "A tour service provider",
+        "img": "https://i.ibb.co/dPcG5mz/tour-one.jpg",
+        "liveSite": "https://tour-one1.web.app",
+        "github": "https://github.com/saimhasan09/tour-one"
+    },
+    {
+        "id": 3,
+        "name": "We care",
+        "price": 600,
+        "description": "A diagnostic center website",
+        "img": "https://i.ibb.co/713tfSQ/we-care-mockup.jpg",
+        "liveSite": "https://we-care1.web.app/",
+        "github": "https://github.com/saimhasan09/we-care"
+    }
+]

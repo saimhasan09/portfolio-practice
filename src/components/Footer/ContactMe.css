@@ -1,0 +1,24 @@
+.address-media .icon{
+    height: 45px;
+    width: 45px;
+    color: #4a5055;
+    border-radius: 50%;
+    border: 1px solid #4a5055;
+    padding: 8px;
+}
+.social-media .icon{
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
+    color: #4a5055;
+    border-radius: 50%;
+    border: 1px solid #4a5055;
+    padding: 8px;
+}
+ 
+.social-media .icon:hover{
+    color: #edf0f3;
+    background-color: rgb(7, 60, 231);
+    border: 1px solid #057ada;
+    padding: 8px;
+}
